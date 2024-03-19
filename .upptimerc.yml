@@ -4,7 +4,6 @@ repo: goodunited-uptime # The name of this repository
 
 sites:
   - name: revenue-attributes
-    subcategories:
       - name: charity-api
         services:
           - name: supporter-service
