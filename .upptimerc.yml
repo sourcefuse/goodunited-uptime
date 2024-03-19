@@ -2,7 +2,7 @@
 owner: sourcefuse # Your GitHub organization or username, where this repository lives
 repo: goodunited-uptime # The name of this repository
 
-revenue-attributes:
+sites:
   - name: supporter-service
     url: https://supporter.stage.goodunited.io/
 
